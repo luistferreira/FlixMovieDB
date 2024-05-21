@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FCBF36BB-602F-4D8A-8727-8836FA3EDE27"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17254D51-10DD-4DDB-B881-DC0CF73CABB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/Home/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "createBackdropPath(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17254D51-10DD-4DDB-B881-DC0CF73CABB3 - d86126ba266b7028"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixDb.HomeViewModel.createBackdropPath(FlixDb.Result) -&gt; Swift.String"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/Home/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "17254D51-10DD-4DDB-B881-DC0CF73CABB3 - d86126ba266b718b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixDb.HomeViewModel.createBackdropPath(FlixDb.Result) -&gt; Swift.String"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/Home/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5B373A1-6B47-4446-8258-E71586C44FBE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/Home/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "topMovieGridView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A5B373A1-6B47-4446-8258-E71586C44FBE - 2448e3b3a29a106c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in FlixDb.HomeView.topMovieGridView.getter : some"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "1361">
+               </Location>
+               <Location
+                  uuid = "A5B373A1-6B47-4446-8258-E71586C44FBE - 2448e3b3a29a106c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in FlixDb.HomeView.topMovieGridView.getter : some"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "1149">
+               </Location>
+               <Location
+                  uuid = "A5B373A1-6B47-4446-8258-E71586C44FBE - 862761a9b97ddc5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 () -&gt; () in implicit closure #1 (FlixDb.HomeView) -&gt; () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in FlixDb.HomeView.topMovieGridView.getter : some"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "A5B373A1-6B47-4446-8258-E71586C44FBE - 2448e3b3a29a1183"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in FlixDb.HomeView.topMovieGridView.getter : some"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "1149">
+               </Location>
+               <Location
+                  uuid = "A5B373A1-6B47-4446-8258-E71586C44FBE - 862761a9b97dddb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 () -&gt; () in implicit closure #1 (FlixDb.HomeView) -&gt; () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in FlixDb.HomeView.topMovieGridView.getter : some"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58ADB1B4-93DE-4364-89C2-E8547F70C51A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/Home/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "upcomingMovieGridView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "58ADB1B4-93DE-4364-89C2-E8547F70C51A - b435cdfebfec878b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in FlixDb.HomeView.NowMovieGridView.getter : some"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "1149">
+               </Location>
+               <Location
+                  uuid = "58ADB1B4-93DE-4364-89C2-E8547F70C51A - acd284dda8854a79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 () -&gt; () in implicit closure #1 (FlixDb.HomeView) -&gt; () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in FlixDb.HomeView.NowMovieGridView.getter : some"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "748150BA-A0C5-46DC-8F69-19FE9A48E94A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/Home/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "switchTop3Movies()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2916D2D-86AD-407E-95A2-C25DA0CE3C7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/Home/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "top3MoviestabView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76436F9C-D3AB-4A3D-A66A-7B316158836E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/Home/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "topMovieGridView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCC7FEE7-A843-46BA-B3D5-9F07077C1D86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Service/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchDataCredits(_:movieID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "503AEC51-E482-4A20-A9FA-483D8B5D2C25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Service/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchDataCredits(_:movieID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99B916E2-4212-4737-B56C-E2C43576D8E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Service/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetchDataCredits(_:movieID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F80A0BDA-DB1B-40B1-93AE-8CFA6B2510D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchMovieData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F80A0BDA-DB1B-40B1-93AE-8CFA6B2510D2 - f25016450966345a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for FlixDb.MovieDetailsViewModel.fetchMovieData() async -&gt; ()"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "154">
+               </Location>
+               <Location
+                  uuid = "F80A0BDA-DB1B-40B1-93AE-8CFA6B2510D2 - 37c69c98002c2e59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for FlixDb.MovieDetailsViewModel.fetchMovieData() async -&gt; ()"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "189">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25BD4BDA-3984-4EAE-A679-FD3DEF2AD2E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchMovieData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25BD4BDA-3984-4EAE-A679-FD3DEF2AD2E4 - dcb7f35ef54889bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for FlixDb.MovieDetailsViewModel.fetchMovieData() async -&gt; ()"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "241">
+               </Location>
+               <Location
+                  uuid = "25BD4BDA-3984-4EAE-A679-FD3DEF2AD2E4 - c84d497151f9ae60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for FlixDb.MovieDetailsViewModel.fetchMovieData() async -&gt; ()"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "25BD4BDA-3984-4EAE-A679-FD3DEF2AD2E4 - 4588e7e4e334c5b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FlixDb.MovieDetailsViewModel.fetchMovieData() async -&gt; ()"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "25BD4BDA-3984-4EAE-A679-FD3DEF2AD2E4 - 897f623f1afafbb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for FlixDb.MovieDetailsViewModel.fetchMovieData() async -&gt; ()"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E093D20B-C1A2-4239-9A3C-B16C177C4411"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(movieData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E093D20B-C1A2-4239-9A3C-B16C177C4411 - 2d3583bd1198ba44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixDb.MovieDetailsViewModel.init(movieData: FlixDb.Result) -&gt; FlixDb.MovieDetailsViewModel"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "305">
+               </Location>
+               <Location
+                  uuid = "E093D20B-C1A2-4239-9A3C-B16C177C4411 - 2d3583bd1198ba25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixDb.MovieDetailsViewModel.init(movieData: FlixDb.Result) -&gt; FlixDb.MovieDetailsViewModel"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "462">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4809F525-A5F1-4162-B907-06E7B79D54E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchMovieData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56635BA8-ACFD-4361-AF0F-471719E8C36E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/MovieDetails/MovieDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchMovieData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FE9ECFF-80C9-4FAA-B03E-4AD4D4AA90A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/MovieDetails/MovieDetailsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6FE9ECFF-80C9-4FAA-B03E-4AD4D4AA90A8 - 1bbc80613d5e2489"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in FlixDb.MovieDetailsView.fetchData() -&gt; ()"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/MovieDetails/MovieDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "102">
+               </Location>
+               <Location
+                  uuid = "6FE9ECFF-80C9-4FAA-B03E-4AD4D4AA90A8 - 3482670afcffa5e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in FlixDb.MovieDetailsView.fetchData() -&gt; ()"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/MovieDetails/MovieDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "6FE9ECFF-80C9-4FAA-B03E-4AD4D4AA90A8 - efc1a31e9927f887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in FlixDb.MovieDetailsView.fetchData() -&gt; ()"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/MovieDetails/MovieDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22F21164-7C14-4406-93C6-7CD8516A405E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixDb/Sources/Scenes/Home/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "fetchBySegmentedState(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "22F21164-7C14-4406-93C6-7CD8516A405E - 5b7dd3b23765e23a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in FlixDb.HomeView.fetchBySegmentedState(FlixDb.MovieListType) -&gt; ()"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "22F21164-7C14-4406-93C6-7CD8516A405E - 7e880d780d4d5e38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in FlixDb.HomeView.fetchBySegmentedState(FlixDb.MovieListType) -&gt; ()"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "22F21164-7C14-4406-93C6-7CD8516A405E - 8224a72e63341a3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for closure #1 @Sendable () async -&gt; () in FlixDb.HomeView.fetchBySegmentedState(FlixDb.MovieListType) -&gt; ()"
+                  moduleName = "FlixDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eros/Documents/FlixDb/FlixDb/Sources/Scenes/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
